@@ -1,2 +1,4 @@
 pybind11
 xmltodict
+swig
+cython
