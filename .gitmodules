@@ -2,3 +2,6 @@
 	path = extern/pybind11
 	url = ../../pybind/pybind11
 	branch = stable
+[submodule "SHOT"]
+	path = SHOT
+	url = https://www.github.com/coin-or/SHOT
